@@ -1,6 +1,8 @@
 # Free Obsidian sync between iPhone and Linux (Syncthing + Synctrain)
 
 This is a free way to sync Obsidian between an iPhone and a Linux machine, using Syncthing on Linux and Synctrain on iOS. It needs no paid service, cloud account or server.
+It should also work on Windows with minimal changes.
+
 
 The guide also covers:
 
