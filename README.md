@@ -6,8 +6,8 @@ It should also work on Windows with minimal changes.
 
 The guide also covers:
 
-- [Importing your Apple Notes (iCloud) into Obsidian](#part-2-import-apple-notes-into-obsidian) with a Shortcut
-- [Adding to a note with Siri](#part-3-add-to-a-note-with-siri), hands-free
+- Importing your Apple Notes (iCloud) into Obsidian with a Shortcut
+- Adding to a note with Siri](#part-3-add-to-a-note-with-siri, hands-free
 
 > **Credit:** The Synctrain + Shortcuts approach comes from u/Nearby-Salamander939 in the Reddit post
 > [A reliable (and free) way to sync Windows and iOS](https://www.reddit.com/r/ObsidianMD/comments/1p8qp1l/a_reliable_and_free_way_to_sync_windows_and_ios/).
