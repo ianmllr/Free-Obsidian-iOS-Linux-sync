@@ -103,6 +103,8 @@ Obsidian on iOS can only open vaults in its own folder (**On My iPhone → Obsid
    1. **Rescan Folder:** pick your folder from the list (for example `ObsidianVault`).
    2. **Synchronize for a while:** change `10` to `15`. According to the original poster, values above 15 make the action fail, probably because of iOS's limit on background time.
 
+<img src="screenshots/sync.PNG"/>
+
 If Synctrain's actions don't show up in the search, open Synctrain once and try again.
 
 > **Alternative:** the original poster also shared a shortcut that keeps Synctrain running in the background while you use Obsidian, which they found more reliable:
@@ -143,6 +145,11 @@ Repeat with Each item in Notes
     Save File  Renamed Item  → your vault
 End Repeat
 ```
+<img src="screenshots/icloud notes to md 1.PNG"/>
+<img src="screenshots/icloud notes to md 2.PNG"/>
+
+
+
 
 ### Step by step
 
@@ -196,6 +203,14 @@ Say "Hey Siri, Obsidian dev", then "write unit tests", and `- [ ] write unit tes
    - File Path: type `dev.md`, or something like `Projects/dev.md` if the note is in a subfolder. It has to be exact and is case-sensitive. Misspelling creates a new file.
    - Turn **Make New Line** on.
 4. (Optional) Add Synctrain's **Rescan Folder** and **Synchronize for a while** so the change is sent right away.
+
+<img src="/screenshots/new log 1.PNG"/>
+<img src="/screenshots/new log 2.PNG"/>
+
+
+
+
+
 
 ### Naming the shortcut
 
