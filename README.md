@@ -95,6 +95,8 @@ Obsidian on iOS can only open vaults in its own folder (**On My iPhone → Obsid
 
 ### 1.8 Create the iOS automation
 
+https://www.icloud.com/shortcuts/9fee9b53386b4bd39cc36b3f180f0eff
+
 1. Open **Shortcuts → Automation** and tap **New Automation** (or **+**).
 2. Choose **App → Choose → Obsidian**.
 3. Check both **Is Opened** and **Is Closed**, and select **Run Immediately**.
@@ -134,6 +136,8 @@ Obsidian's official Importer plugin can import Apple Notes, but as far as I know
 > This is a one-time copy. Changes you make in Apple Notes afterwards are not carried over, so the cleanest approach is to import once and write new notes in Obsidian from then on. 
 
 ### The finished shortcut
+
+https://www.icloud.com/shortcuts/8b7b0c4889154f0ebaf2d695741b2e79
 
 ```
 Find Notes                                  (Limit: 3 while testing)
